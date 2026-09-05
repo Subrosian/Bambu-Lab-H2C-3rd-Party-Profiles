@@ -1,0 +1,607 @@
+{
+    "schema_version": 1,
+    "target_printer": "Bambu Lab H2C",
+    "brands": {
+        "SUNLU": [
+            {
+                "name": "SUNLU ABS @BBL H2C",
+                "setting_id": "SUNLUH2C_ABS",
+                "material_family": "ABS",
+                "path": "profiles/SUNLU/ABS/SUNLU_ABS_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU ASA @BBL H2C",
+                "setting_id": "SUNLUH2C_ASA",
+                "material_family": "ASA",
+                "path": "profiles/SUNLU/ASA/SUNLU_ASA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Easy PA @BBL H2C",
+                "setting_id": "SUNLUH2C_EASYPA",
+                "material_family": "PA",
+                "path": "profiles/SUNLU/PA/SUNLU_Easy_PA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed Matte PETG @BBL H2C",
+                "setting_id": "SUNLUH2C_HSMPETG",
+                "material_family": "PETG",
+                "path": "profiles/SUNLU/PETG/SUNLU_High_Speed_Matte_PETG_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PETG FAST @BBL H2C",
+                "setting_id": "SUNLUH2C_PETGF",
+                "material_family": "PETG",
+                "path": "profiles/SUNLU/PETG/SUNLU_PETG_FAST_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PETG @BBL H2C",
+                "setting_id": "SUNLUH2C_PETG",
+                "material_family": "PETG",
+                "path": "profiles/SUNLU/PETG/SUNLU_PETG_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed Marble PLA 0.4 @BBL H2C",
+                "setting_id": "SUNLUH2C_HSMARBLE04",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_Marble_PLA_0.4_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed Marble PLA @BBL H2C",
+                "setting_id": "SUNLUH2C_HSMARBLE",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_Marble_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed Matte PLA @BBL H2C",
+                "setting_id": "SUNLUH2C_HSMATTE",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_Matte_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed PLA+ 2.0 @BBL H2C",
+                "setting_id": "SUNLUH2C_HSPLAP2",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_PLA+_2.0_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed PLA+ @BBL H2C",
+                "setting_id": "SUNLUH2C_HSPLAP",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_PLA+_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU High Speed PLA @BBL H2C",
+                "setting_id": "SUNLUH2C_HSPLA",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_High_Speed_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA+ 2.0 FAST @BBL H2C",
+                "setting_id": "SUNLUH2C_PLAP2F",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA+_2.0_FAST_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA+ 2.0 @BBL H2C",
+                "setting_id": "SUNLUH2C_PLAP2",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA+_2.0_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA+ @BBL H2C",
+                "setting_id": "SUNLUH2C_PLAP",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA+_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA-CF @BBL H2C",
+                "setting_id": "SUNLUH2C_PLACF",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA Glow 0.4 @BBL H2C",
+                "setting_id": "SUNLUH2C_GLOW04",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_Glow_0.4_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA Glow @BBL H2C",
+                "setting_id": "SUNLUH2C_GLOW",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_Glow_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA @BBL H2C",
+                "setting_id": "SUNLUH2C_PLA",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA Matte @BBL H2C",
+                "setting_id": "SUNLUH2C_MATTE",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_Matte_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA Meta @BBL H2C",
+                "setting_id": "SUNLUH2C_META",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_Meta_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PLA Rainbow @BBL H2C",
+                "setting_id": "SUNLUH2C_RAINBOW",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_PLA_Rainbow_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Silk PLA+ @BBL H2C",
+                "setting_id": "SUNLUH2C_SILK",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_Silk_PLA+_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Silk Rainbow @BBL H2C",
+                "setting_id": "SUNLUH2C_SILKRAIN",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_Silk_Rainbow_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Transparent PLA Rainbow @BBL H2C",
+                "setting_id": "SUNLUH2C_TRRAIN",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_Transparent_PLA_Rainbow_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Wood PLA 0.4 @BBL H2C",
+                "setting_id": "SUNLUH2C_WOOD04",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_Wood_PLA_0.4_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU Wood PLA @BBL H2C",
+                "setting_id": "SUNLUH2C_WOOD",
+                "material_family": "PLA",
+                "path": "profiles/SUNLU/PLA/SUNLU_Wood_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU PVB (Experimental) @BBL H2C",
+                "setting_id": "SUNLUH2C_PVB",
+                "material_family": "PVB",
+                "path": "profiles/SUNLU/PVB/SUNLU_PVB_Experimental_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "SUNLU TPU 95A @BBL H2C",
+                "setting_id": "SUNLUH2C_TPU95",
+                "material_family": "TPU",
+                "path": "profiles/SUNLU/TPU/SUNLU_TPU_95A_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            }
+        ],
+        "ELEGOO": [
+            {
+                "name": "ELEGOO PLA @BBL H2C",
+                "setting_id": "ELEGOOH2C_PLA",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PLA Plus @BBL H2C",
+                "setting_id": "ELEGOOH2C_PLAP",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_PLA_Plus_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO Rapid PLA Plus @BBL H2C",
+                "setting_id": "ELEGOOH2C_RPLAP",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_Rapid_PLA_Plus_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PLA Pro @BBL H2C",
+                "setting_id": "ELEGOOH2C_PLAPRO",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_PLA_Pro_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PLA Matte @BBL H2C",
+                "setting_id": "ELEGOOH2C_MATTE",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_PLA_Matte_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PLA Silk @BBL H2C",
+                "setting_id": "ELEGOOH2C_SILK",
+                "material_family": "PLA",
+                "path": "profiles/ELEGOO/PLA/ELEGOO_PLA_Silk_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO Rapid PETG @BBL H2C",
+                "setting_id": "ELEGOOH2C_RPETG",
+                "material_family": "PETG",
+                "path": "profiles/ELEGOO/PETG/ELEGOO_Rapid_PETG_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PETG Pro @BBL H2C",
+                "setting_id": "ELEGOOH2C_PETGPRO",
+                "material_family": "PETG",
+                "path": "profiles/ELEGOO/PETG/ELEGOO_PETG_Pro_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PETG Translucent @BBL H2C",
+                "setting_id": "ELEGOOH2C_PETGTR",
+                "material_family": "PETG",
+                "path": "profiles/ELEGOO/PETG/ELEGOO_PETG_Translucent_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PETG-CF @BBL H2C",
+                "setting_id": "ELEGOOH2C_PETGCF",
+                "material_family": "PETG",
+                "path": "profiles/ELEGOO/PETG/ELEGOO_PETG-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PETG-GF @BBL H2C",
+                "setting_id": "ELEGOOH2C_PETGGF",
+                "material_family": "PETG",
+                "path": "profiles/ELEGOO/PETG/ELEGOO_PETG-GF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO ASA @BBL H2C",
+                "setting_id": "ELEGOOH2C_ASA",
+                "material_family": "ASA",
+                "path": "profiles/ELEGOO/ASA/ELEGOO_ASA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PAHT-CF @BBL H2C",
+                "setting_id": "ELEGOOH2C_PAHTCF",
+                "material_family": "PA",
+                "path": "profiles/ELEGOO/PA/ELEGOO_PAHT-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PC-FR @BBL H2C",
+                "setting_id": "ELEGOOH2C_PCFR",
+                "material_family": "PC",
+                "path": "profiles/ELEGOO/PC/ELEGOO_PC-FR_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO PET-CF @BBL H2C",
+                "setting_id": "ELEGOOH2C_PETCF",
+                "material_family": "PET",
+                "path": "profiles/ELEGOO/PET/ELEGOO_PET-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "ELEGOO Rapid TPU 95A @BBL H2C",
+                "setting_id": "ELEGOOH2C_RTPU95",
+                "material_family": "TPU",
+                "path": "profiles/ELEGOO/TPU/ELEGOO_Rapid_TPU_95A_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            }
+        ],
+        "Inland": [
+            {
+                "name": "Inland PLA @BBL H2C",
+                "setting_id": "INLANDH2C_PLA",
+                "material_family": "PLA",
+                "path": "profiles/Inland/PLA/Inland_PLA_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PLA Basic @BBL H2C",
+                "setting_id": "INLANDH2C_PLABASIC",
+                "material_family": "PLA",
+                "path": "profiles/Inland/PLA/Inland_PLA_Basic_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PLA+ @BBL H2C",
+                "setting_id": "INLANDH2C_PLAP",
+                "material_family": "PLA",
+                "path": "profiles/Inland/PLA/Inland_PLA+_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PLA+ High Speed @BBL H2C",
+                "setting_id": "INLANDH2C_PLAPHS",
+                "material_family": "PLA",
+                "path": "profiles/Inland/PLA/Inland_PLA+_High_Speed_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PLA-CF @BBL H2C",
+                "setting_id": "INLANDH2C_PLACF",
+                "material_family": "PLA",
+                "path": "profiles/Inland/PLA/Inland_PLA-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PETG @BBL H2C",
+                "setting_id": "INLANDH2C_PETG",
+                "material_family": "PETG",
+                "path": "profiles/Inland/PETG/Inland_PETG_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PETG+ @BBL H2C",
+                "setting_id": "INLANDH2C_PETGP",
+                "material_family": "PETG",
+                "path": "profiles/Inland/PETG/Inland_PETG+_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland PETG+ High Speed @BBL H2C",
+                "setting_id": "INLANDH2C_PETGPHS",
+                "material_family": "PETG",
+                "path": "profiles/Inland/PETG/Inland_PETG+_High_Speed_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            },
+            {
+                "name": "Inland TPU 95A @BBL H2C",
+                "setting_id": "INLANDH2C_TPU95",
+                "material_family": "TPU",
+                "path": "profiles/Inland/TPU/Inland_TPU_95A_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle",
+                    "Bambu Lab H2C 0.8 nozzle"
+                ]
+            }
+        ],
+        "Flashforge": [
+            {
+                "name": "Flashforge PETG-CF @BBL H2C",
+                "setting_id": "FLASHFORGEH2C_PETGCF",
+                "material_family": "PETG",
+                "path": "profiles/Flashforge/PETG/Flashforge_PETG-CF_H2C.json",
+                "compatible_printers": [
+                    "Bambu Lab H2C 0.4 nozzle",
+                    "Bambu Lab H2C 0.6 nozzle"
+                ]
+            }
+        ]
+    }
+}

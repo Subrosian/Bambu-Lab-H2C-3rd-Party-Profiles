@@ -1,0 +1,2 @@
+Brand,Profile,Base,Nozzle C,First layer C,Official nozzle range C,Bed C,Official bed range C,Official print speed mm/s,MVS mm3/s,Drying,Temperature check,Bed check,Source,Notes
+Flashforge,Flashforge PETG-CF @BBL H2C,Generic PETG @base,230,235,200-240,70,60-80,40-250,10,70C / 5h,PASS,PASS,https://www.flashforge.com/products/flashforge-petg-cf,"Carbon-fiber reinforced; abrasion-resistant hardware recommended. Official nozzle sizes 0.4/0.6 mm, 0.4 recommended."

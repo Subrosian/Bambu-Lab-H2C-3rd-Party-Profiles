@@ -1,0 +1,6 @@
+PASS
+29 SUNLU profiles migrated.
+Manifest paths resolve.
+Names and setting IDs match JSON files.
+All migrated profiles remain H2C-only.
+Generic installers are brand-independent.

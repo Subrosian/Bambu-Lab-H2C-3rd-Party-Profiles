@@ -1,0 +1,17 @@
+H2C PROFILE SCHEMA VERIFICATION
+
+Profiles checked: 55
+System profile JSON parse: PASS
+H2C include template: PASS
+Known H2C per-channel vector cardinality (3): PASS
+H2C-only compatible_printers: PASS
+
+Reference model:
+- Current official Generic PLA @BBL H2C
+- Current official Generic PETG @BBL H2C
+- Current official Generic PETG @BBL H2C 0.4 nozzle
+- Current official Bambu PET-CF @BBL H2C
+
+IMPORTANT: structural/schema verification only; not physical print testing and not a runtime Bambu Studio test.
+
+OVERALL: PASS

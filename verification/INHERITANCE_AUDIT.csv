@@ -1,0 +1,56 @@
+Profile,Inherits,Base present in current Bambu manifest
+SUNLU ABS @BBL H2C,Generic ABS @base,PASS
+SUNLU ASA @BBL H2C,Generic ASA @base,PASS
+SUNLU Easy PA @BBL H2C,Generic PA @base,PASS
+SUNLU High Speed Matte PETG @BBL H2C,Generic PETG @base,PASS
+SUNLU PETG FAST @BBL H2C,Generic PETG @base,PASS
+SUNLU PETG @BBL H2C,Generic PETG @base,PASS
+SUNLU High Speed Marble PLA 0.4 @BBL H2C,Generic PLA @base,PASS
+SUNLU High Speed Marble PLA @BBL H2C,Generic PLA @base,PASS
+SUNLU High Speed Matte PLA @BBL H2C,Generic PLA @base,PASS
+SUNLU High Speed PLA+ 2.0 @BBL H2C,Generic PLA @base,PASS
+SUNLU High Speed PLA+ @BBL H2C,Generic PLA @base,PASS
+SUNLU High Speed PLA @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA+ 2.0 FAST @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA+ 2.0 @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA+ @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA-CF @BBL H2C,Generic PLA-CF @base,PASS
+SUNLU PLA Glow 0.4 @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA Glow @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA Matte @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA Meta @BBL H2C,Generic PLA @base,PASS
+SUNLU PLA Rainbow @BBL H2C,Generic PLA @base,PASS
+SUNLU Silk PLA+ @BBL H2C,Generic PLA @base,PASS
+SUNLU Silk Rainbow @BBL H2C,Generic PLA @base,PASS
+SUNLU Transparent PLA Rainbow @BBL H2C,Generic PLA @base,PASS
+SUNLU Wood PLA 0.4 @BBL H2C,Generic PLA @base,PASS
+SUNLU Wood PLA @BBL H2C,Generic PLA @base,PASS
+SUNLU PVB (Experimental) @BBL H2C,Generic PLA @base,PASS
+SUNLU TPU 95A @BBL H2C,Generic TPU @base,PASS
+ELEGOO PLA @BBL H2C,Generic PLA @base,PASS
+ELEGOO PLA Plus @BBL H2C,Generic PLA @base,PASS
+ELEGOO Rapid PLA Plus @BBL H2C,Generic PLA @base,PASS
+ELEGOO PLA Pro @BBL H2C,Generic PLA @base,PASS
+ELEGOO PLA Matte @BBL H2C,Generic PLA @base,PASS
+ELEGOO PLA Silk @BBL H2C,Generic PLA @base,PASS
+ELEGOO Rapid PETG @BBL H2C,Generic PETG @base,PASS
+ELEGOO PETG Pro @BBL H2C,Generic PETG @base,PASS
+ELEGOO PETG Translucent @BBL H2C,Generic PETG @base,PASS
+ELEGOO PETG-CF @BBL H2C,Generic PETG-CF @base,PASS
+ELEGOO PETG-GF @BBL H2C,Generic PETG @base,PASS
+ELEGOO ASA @BBL H2C,Generic ASA @base,PASS
+ELEGOO PAHT-CF @BBL H2C,Bambu PAHT-CF @base,PASS
+ELEGOO PC-FR @BBL H2C,Generic PC @base,PASS
+ELEGOO PET-CF @BBL H2C,Bambu PET-CF @base,PASS
+ELEGOO Rapid TPU 95A @BBL H2C,Generic TPU @base,PASS
+Inland PLA @BBL H2C,Generic PLA @base,PASS
+Inland PLA Basic @BBL H2C,Generic PLA @base,PASS
+Inland PLA+ @BBL H2C,Generic PLA @base,PASS
+Inland PLA+ High Speed @BBL H2C,Generic PLA @base,PASS
+Inland PLA-CF @BBL H2C,Generic PLA-CF @base,PASS
+Inland PETG @BBL H2C,Generic PETG @base,PASS
+Inland PETG+ @BBL H2C,Generic PETG @base,PASS
+Inland PETG+ High Speed @BBL H2C,Generic PETG @base,PASS
+Inland TPU 95A @BBL H2C,Generic TPU @base,PASS
+Flashforge PETG-CF @BBL H2C,Generic PETG-CF @base,PASS

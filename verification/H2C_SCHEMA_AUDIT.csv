@@ -1,0 +1,56 @@
+profile,include,channel_vectors,result
+SUNLU ABS @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU ASA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Easy PA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed Matte PETG @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PETG FAST @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PETG @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed Marble PLA 0.4 @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed Marble PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed Matte PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed PLA+ 2.0 @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed PLA+ @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU High Speed PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA+ 2.0 FAST @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA+ 2.0 @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA+ @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA Glow 0.4 @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA Glow @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA Matte @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA Meta @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PLA Rainbow @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Silk PLA+ @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Silk Rainbow @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Transparent PLA Rainbow @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Wood PLA 0.4 @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU Wood PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU PVB (Experimental) @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+SUNLU TPU 95A @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PLA Plus @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO Rapid PLA Plus @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PLA Pro @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PLA Matte @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PLA Silk @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO Rapid PETG @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PETG Pro @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PETG Translucent @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PETG-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PETG-GF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO ASA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PAHT-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PC-FR @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO PET-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+ELEGOO Rapid TPU 95A @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PLA @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PLA Basic @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PLA+ @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PLA+ High Speed @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PLA-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PETG @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PETG+ @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland PETG+ High Speed @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Inland TPU 95A @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS
+Flashforge PETG-CF @BBL H2C,fdm_filament_template_direct_dual_e3d,PASS,PASS

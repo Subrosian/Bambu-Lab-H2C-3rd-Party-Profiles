@@ -1,0 +1,30 @@
+Profile,Base,Nozzle C,First layer C,Official nozzle range C,Bed C,Official bed range C,MVS mm3/s,Temperature check,Bed check,H2C compatibility,Notes
+SUNLU PLA @BBL H2C,Generic PLA @base,215,220,200-240,55,50-60,14,PASS,PASS,PASS,Official SUNLU PLA range; conservative H2C flow ceiling.
+SUNLU PLA+ @BBL H2C,Generic PLA @base,220,225,205-245,60,50-60,16,PASS,PASS,PASS,Official SUNLU PLA+ range.
+SUNLU PLA+ 2.0 @BBL H2C,Generic PLA @base,225,230,205-245,60,50-60,18,PASS,PASS,PASS,Stable PLA+ 2.0 baseline.
+SUNLU PLA+ 2.0 FAST @BBL H2C,Generic PLA @base,230,235,205-245,60,50-60,28,PASS,PASS,PASS,"Calibration-only high-flow preset; MVS is an engineering limit, not a SUNLU-published MVS."
+SUNLU High Speed PLA+ 2.0 @BBL H2C,Generic PLA @base,225,230,200-230,55,50-60,28,PASS,PASS,PASS,Distinct SUNLU High Speed PLA+ 2.0 formulation.
+SUNLU PLA Matte @BBL H2C,Generic PLA @base,220,225,205-245,55,50-60,12,PASS,PASS,PASS,Official matte formulation.
+SUNLU PLA Meta @BBL H2C,Generic PLA @base,205,210,185-225,55,50-60,16,PASS,PASS,PASS,"Low-temperature, high-flow PLA Meta."
+SUNLU High Speed PLA @BBL H2C,Generic PLA @base,225,230,210-230,55,50-60,26,PASS,PASS,PASS,Current SUNLU page lists <=250 mm/s; MVS kept below aggressive community values.
+SUNLU High Speed PLA+ @BBL H2C,Generic PLA @base,225,230,210-230,55,50-60,26,PASS,PASS,PASS,SUNLU High Speed PLA+.
+SUNLU High Speed Matte PLA @BBL H2C,Generic PLA @base,230,235,190-260,55,50-60,24,PASS,PASS,PASS,High-speed matte; use flow calibration before raising MVS.
+SUNLU High Speed Marble PLA @BBL H2C,Generic PLA @base,230,235,210-260,55,50-60,18,PASS,PASS,PASS,Preferred 0.6/0.8 mm particle-filled profile.
+SUNLU High Speed Marble PLA 0.4 @BBL H2C,Generic PLA @base,225,230,210-260,55,50-60,12,PASS,PASS,PASS,0.4 mm compatibility profile; reduced MVS for clog margin.
+SUNLU Silk PLA+ @BBL H2C,Generic PLA @base,220,225,210-230,55,50-60,10,PASS,PASS,PASS,Gloss-first preset; lower MVS preserves silk finish.
+SUNLU PLA Rainbow @BBL H2C,Generic PLA @base,220,225,200-240,55,50-60,12,PASS,PASS,PASS,PLA Rainbow.
+SUNLU Transparent PLA Rainbow @BBL H2C,Generic PLA @base,215,220,195-220,55,50-60,10,PASS,PASS,PASS,Transparent Rainbow.
+SUNLU Silk Rainbow @BBL H2C,Generic PLA @base,220,225,205-235,55,50-60,10,PASS,PASS,PASS,PLA+ Silk Rainbow.
+SUNLU PLA Glow @BBL H2C,Generic PLA @base,220,225,200-240,55,50-60,10,PASS,PASS,PASS,Abrasive additive; wear-resistant 0.6/0.8 mm nozzle preferred.
+SUNLU PLA Glow 0.4 @BBL H2C,Generic PLA @base,215,220,200-240,55,50-60,8,PASS,PASS,PASS,0.4 mm compatibility profile; wear-resistant nozzle recommended.
+SUNLU Wood PLA @BBL H2C,Generic PLA @base,215,220,200-220,55,50-60,10,PASS,PASS,PASS,Wood-filled; 0.6/0.8 preferred.
+SUNLU Wood PLA 0.4 @BBL H2C,Generic PLA @base,210,215,200-220,55,50-60,7,PASS,PASS,PASS,Reduced-flow 0.4 mm compatibility profile.
+SUNLU PLA-CF @BBL H2C,Generic PLA @base,230,235,215-245,55,50-60,12,PASS,PASS,PASS,15% CF; hardened/wear-resistant 0.6/0.8 nozzle strongly recommended.
+SUNLU PETG @BBL H2C,Generic PETG @base,245,250,240-260,70,60-70,12,PASS,PASS,PASS,Official SUNLU PETG range.
+SUNLU PETG FAST @BBL H2C,Generic PETG @base,255,255,240-260,70,60-70,18,PASS,PASS,PASS,Calibration-only faster PETG preset.
+SUNLU High Speed Matte PETG @BBL H2C,Generic PETG @base,250,255,240-260,75,70-80,18,PASS,PASS,PASS,High Speed Matte PETG.
+SUNLU ABS @BBL H2C,Generic ABS @base,260,260,250-290,100,80-100,15,PASS,PASS,PASS,Official ABS range; chamber heat used for warp control.
+SUNLU ASA @BBL H2C,Generic ASA @base,265,270,250-280,100,80-100,15,PASS,PASS,PASS,"Official ASA range; SUNLU store also mentions 90-110C in general guidance, detailed table says 80-100C."
+SUNLU Easy PA @BBL H2C,Generic PA @base,265,270,250-280,45,30-50,9,PASS,PASS,PASS,Easy PA; dry thoroughly before printing.
+SUNLU TPU 95A @BBL H2C,Generic TPU @base,225,225,190-230,55,50-60,3.2,PASS,PASS,PASS,Flexible filament; follow Bambu guidance for supported feeding path.
+SUNLU PVB (Experimental) @BBL H2C,Generic PLA @base,220,225,200-230,55,50-60,9,PASS,PASS,PASS,Temperature/bed verified; marked Experimental because Bambu generic PVB base availability is inconsistent.
